@@ -1,0 +1,3 @@
+﻿model,total_runs,successful_runs,failed_runs,success_rate_percent,mean_response_time_seconds,median_response_time_seconds,mean_response_words
+Llama 3.2 (3B),240,240,0,100.0,16.415458333333333,10.015,61.55833333333333
+Qwen 2.5 (3B),240,240,0,100.0,1.1190416666666667,0.76,35.795833333333334
