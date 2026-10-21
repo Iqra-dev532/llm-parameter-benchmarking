@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "factual",
+    "prompt": "What is the capital city of Pakistan?"
+  },
+  {
+    "id": 2,
+    "category": "factual",
+    "prompt": "How many days are there in a leap year?"
+  },
+  {
+    "id": 3,
+    "category": "reasoning",
+    "prompt": "A notebook costs 100 rupees. What is the cost of 4 notebooks? Explain briefly."
+  },
+  {
+    "id": 4,
+    "category": "reasoning",
+    "prompt": "Find the next number in the sequence: 2, 4, 8, 16, __. Explain the pattern."
+  },
+  {
+    "id": 5,
+    "category": "structured",
+    "prompt": "Return only valid JSON with keys name, age, and city. Use name Ali, age 22, and city Lahore."
+  },
+  {
+    "id": 6,
+    "category": "structured",
+    "prompt": "Return exactly three bullet points explaining the benefits of exercise."
+  },
+  {
+    "id": 7,
+    "category": "uncertainty",
+    "prompt": "What is the exact number of people currently inside the Eiffel Tower? If you do not have live data, say so."
+  },
+  {
+    "id": 8,
+    "category": "creative",
+    "prompt": "Write a short story about a robot that learns to paint, using no more than 100 words."
+  },
+  {
+    "id": 9,
+    "category": "instruction_following",
+    "prompt": "Answer only YES or NO: Is 17 a prime number?"
+  },
+  {
+    "id": 10,
+    "category": "instruction_following",
+    "prompt": "Explain machine learning using exactly 20 words."
+  }
+]
